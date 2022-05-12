@@ -1,0 +1,2 @@
+09:59:07 [Test worker] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+09:59:07 [Test worker] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\igor.prozorow\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe

@@ -1,0 +1,5 @@
+18:32:45 [Test worker] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+18:32:45 [Test worker] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+18:32:46 [Test worker] INFO  i.g.b.wdm.online.Downloader - Downloading https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
+18:32:48 [Test worker] INFO  i.g.b.wdm.online.Downloader - Extracting driver from compressed file chromedriver_win32.zip
+18:32:49 [Test worker] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\igor.prozorow\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
